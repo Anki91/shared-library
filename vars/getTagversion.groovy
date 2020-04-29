@@ -1,4 +1,4 @@
-def getTagversion (String oldtagVersion)
+def call (String oldtagVersion)
 {
     oldtagVersion = oldtagVersion.substring(1)
     println oldtagVersion
